@@ -50,7 +50,8 @@ def download_resource(resource):
     if "download_repo" in resource:
         os.makedirs(download_dir, exist_ok=True)
         # comment the .wait() for concurrent downloads
-        subprocess.Popen(["git", "clone", resource['download_repo'], "."], cwd=download_dir).wait()
+        subprocess.Popen([
+    "gh", "repo", "clone", resource['download_repo'].replace("git@github.com:", "https://github.com/"), "."], cwd=download_dir).wait()
 
     # DOWNLOAD FROM CURSEFORGE
     if "download_project_id" in resource:
