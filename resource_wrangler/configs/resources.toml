@@ -104,8 +104,8 @@ pack_format = 5
 
 ["default-modded-1.16.x"]
 mods_dirs = [
-    "E:/GD Launcher/instances/All the Mods 6   ATM6   1 16 3/mods",
-    "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.16.x/"
+    "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.16.x/",
+    "E:/GD Launcher/instances/All the Mods 6   ATM6   1 16 3/mods"
 ]
 patches_dir = "E:/Soartex Modded/graphics/default/Modded-1.16.x/"
 pack_dir = "E:/Soartex Modded/graphics_merged/default/Modded-1.16.x/"
