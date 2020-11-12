@@ -33,7 +33,7 @@ pack_dir = "E:/Soartex Modded/graphics/default/Vanilla-1.16.x/Vanilla/"
 
 ["default-modded-1.5.x"]
 mods_dirs = [
-    "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Unleashed/.minecraft/mods",
+    # "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Unleashed/.minecraft/mods",
     "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.5.x/"
 ]
 patches_dir = "E:/Soartex Modded/graphics/default/Modded-1.5.x/"
@@ -50,9 +50,9 @@ pack_format = 1
 
 ["default-modded-1.7.x"]
 mods_dirs = [
-    "/Users/michael/Documents/ATLauncher.app/Contents/Java/instances/BeyondReality/mods",
-    "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Infinity Evolved 1.7/mods",
-    "/Applications/MultiMC.app/Contents/MacOS/instances/1.7.10/.minecraft/mods",
+    # "/Users/michael/Documents/ATLauncher.app/Contents/Java/instances/BeyondReality/mods",
+    # "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Infinity Evolved 1.7/mods",
+    # "/Applications/MultiMC.app/Contents/MacOS/instances/1.7.10/.minecraft/mods",
     "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.7.x/"
 ]
 patches_dir = "E:/Soartex Modded/graphics/default/Modded-1.7.x/"
@@ -69,7 +69,7 @@ pack_format = 1
 
 ["default-modded-1.10.x"]
 mods_dirs = [
-    "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Beyond/.minecraft/mods",
+    # "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Beyond/.minecraft/mods",
     "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.10.x/"
 ]
 patches_dir = "E:/Soartex Modded/graphics/default/Modded-1.10.x/"
@@ -86,8 +86,8 @@ pack_format = 3
 
 ["default-modded-1.12.x"]
 mods_dirs = [
-    "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Revelation/.minecraft/mods",
-    "/Users/michael/Documents/ATLauncher.app/Contents/Java/instances/SevTechAges/mods",
+    # "/Applications/MultiMC.app/Contents/MacOS/instances/FTB Revelation/.minecraft/mods",
+    # "/Users/michael/Documents/ATLauncher.app/Contents/Java/instances/SevTechAges/mods",
     "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.12.x/"
 ]
 patches_dir = "E:/Soartex Modded/graphics/default/Modded-1.12.x/"
