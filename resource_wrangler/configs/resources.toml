@@ -105,7 +105,9 @@ pack_format = 5
 ["default-modded-1.16.x"]
 mods_dirs = [
     "E:/Soartex Modded/graphics/default/Downloaded-Mods-1.16.x/",
-    "E:/GD Launcher/instances/All the Mods 6   ATM6   1 16 3/mods"
+    "E:/GD Launcher/instances/All the Mods 6   ATM6   1 16 3/mods",
+    "E:/GD Launcher/instances/Skyopolis 4/mods",
+    "E:/Minecraft/FTB/8c1b79d5-4c92-4668-8764-1478b7d0ddb6/mods"    
 ]
 patches_dir = "E:/Soartex Modded/graphics/default/Modded-1.16.x/"
 pack_dir = "E:/Soartex Modded/graphics_merged/default/Modded-1.16.x/"
@@ -225,8 +227,8 @@ pack_dir = "E:/Soartex Modded/graphics_merged/fanver/Modded-1.15.x/"
 pack_format = 5
 
 ["fanver-modded-1.16.x"]
-# download_repo = "git@github.com:Soartex-Modded/Modded-1.15.x.git"
-# download_dir = "E:/Soartex Modded/graphics/fanver/Modded-1.15.x/"
+download_repo = "git@github.com:Soartex-Modded/Modded-1.16.x.git"
+download_dir = "E:/Soartex Modded/graphics/fanver/Modded-1.16.x/"
 patches_dir = "E:/Soartex Modded/graphics/fanver/Modded-1.16.x/"
 pack_dir = "E:/Soartex Modded/graphics_merged/fanver/Modded-1.16.x/"
 pack_format = 6
